@@ -2,7 +2,7 @@
 
 Ce projet avait pour objectif d'établir des statistiques sous forme de graphiques sur la consommation de gaz à effet de serre des pays dans le monde.
 
-Réalisés en binôme, nous avions dû dans un premier temps, récupéré en ligne un jeu de données sur le sujet de notre choix
+Réalisés en binôme, nous avions dû dans un premier temps, récupéré en ligne un jeu de données sur le sujet de notre choix.
 L'objectif de ce projet est de démontrer l'influence que peut apporter un graphique sur notre perception, en déformant la réalité avec une exploitation des données faussées. 
 Pour cela, deux graphiques : l'un correspond à une bonne interprétation des données et un autre qui correspond à une mauvaise interprétation de ces mêmes données.
 
